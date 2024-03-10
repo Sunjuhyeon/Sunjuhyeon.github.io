@@ -124,7 +124,7 @@ body .sunimg .imgSection .swiper .swiper-slide .aboutbg1 {
   width: 80%;
   transition: 2s;
 }
-#skills .anibox.aos-animate .imgbox.react .graph::before {
+#skills .anibox.aos-animate .imgbox.react .graph::before, #skills .anibox.aos-animate .imgbox.vue .graph::before {
   width: 70%;
   transition: 2s;
 }

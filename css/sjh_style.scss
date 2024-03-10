@@ -195,7 +195,7 @@ body {
                     }
                 }
 
-                &.react {
+                &.react, &.vue {
                     .graph {
                         &::before {
                             width: 70%;
