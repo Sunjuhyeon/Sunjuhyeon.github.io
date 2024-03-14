@@ -1,1 +1,2 @@
-# Sunjuhyeon.github.io
+# 자기소개 페이지입니다!
+<p>React , Scss, Json을 사용하여 만든 포트폴리오입니다.</p>
