@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.570aeae4.css",
-    "main.js": "/static/js/main.f3a5a18a.js",
+    "main.js": "/static/js/main.a95c4fe5.js",
     "static/media/doubleQuote0.png": "/static/media/doubleQuote0.aa5a795a02f1bf50cb21.png",
     "index.html": "/index.html",
     "main.570aeae4.css.map": "/static/css/main.570aeae4.css.map",
-    "main.f3a5a18a.js.map": "/static/js/main.f3a5a18a.js.map"
+    "main.a95c4fe5.js.map": "/static/js/main.a95c4fe5.js.map"
   },
   "entrypoints": [
     "static/css/main.570aeae4.css",
-    "static/js/main.f3a5a18a.js"
+    "static/js/main.a95c4fe5.js"
   ]
 }
